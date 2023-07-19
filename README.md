@@ -1,2 +1,2 @@
 # Assignment_1
-Assignment 1 of Full stack Java development course 
+Assignment1 - ineuron - FullStackJavaDevelopment course 
